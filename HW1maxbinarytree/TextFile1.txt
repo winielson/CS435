@@ -1,0 +1,45 @@
+size
+insert 5
+maxLookup
+insert 18
+maxLookup
+insert 3
+maxLookup
+insert 12
+insert 19
+maxLookup
+extractMax
+maxLookup
+insert 25
+insert 6
+insert 1
+size
+extractMax
+extractMax
+extractMax{-truncated-}
+
+0  size iteration: 1
+5  maxLookup iteration: 3
+18  maxLookup iteration: 5
+18  maxLookup iteration: 7
+19  maxLookup iteration: 10
+19 extractMax iteration: 11
+18  maxLookup iteration: 12
+7  size iteration: 16
+25 extractMax iteration: 17
+18 extractMax iteration: 18
+12 extractMax iteration: 19
+4  size iteration: 20
+1  size iteration: 24
+1  maxLookup iteration: 25
+
+0
+5
+18
+18
+19
+18
+7
+4
+1
+1
